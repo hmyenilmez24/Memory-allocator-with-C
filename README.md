@@ -1,2 +1,5 @@
 Memory-allocator-with-C
-Description is exist in presentation file
+
+A memory allocator console application with using C language.
+
+Description is available in the presentation file
